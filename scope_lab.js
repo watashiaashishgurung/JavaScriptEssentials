@@ -23,4 +23,11 @@ function show(){
     const functionConst = "I'm a block-scoped const";
     }
     show();
+{
+// Task Trying out some variables, constants and functionConst
+var functionVar = "I'm a block-scoped var";
+let functionLet = "I'm a block-scoped let";
+const functionConst = "I'm a block-scoped const";
+}
+
   
